@@ -1,12 +1,22 @@
 {
-  "name": "my-react-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "confirm-button-react-experiments-level-up-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "leveluptutorials",
+    "level up",
+    "react tutorials",
+    "syntax.fm",
+    "react"
+  ],
+  "main": "src/index.js",
   "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.4",
+    "styled-components": "3.3.3"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
